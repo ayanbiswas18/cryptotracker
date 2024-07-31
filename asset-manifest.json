@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryptotracker/static/css/main.deb4d580.chunk.css",
+    "main.js": "/cryptotracker/static/js/main.5f16cb73.chunk.js",
+    "main.js.map": "/cryptotracker/static/js/main.5f16cb73.chunk.js.map",
+    "runtime-main.js": "/cryptotracker/static/js/runtime-main.34388dbf.js",
+    "runtime-main.js.map": "/cryptotracker/static/js/runtime-main.34388dbf.js.map",
+    "static/css/2.02daa001.chunk.css": "/cryptotracker/static/css/2.02daa001.chunk.css",
+    "static/js/2.a9e4e098.chunk.js": "/cryptotracker/static/js/2.a9e4e098.chunk.js",
+    "static/js/2.a9e4e098.chunk.js.map": "/cryptotracker/static/js/2.a9e4e098.chunk.js.map",
+    "index.html": "/cryptotracker/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/cryptotracker/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/cryptotracker/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.a9e4e098.chunk.js.LICENSE.txt": "/cryptotracker/static/js/2.a9e4e098.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34388dbf.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.a9e4e098.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.5f16cb73.chunk.js"
+  ]
+}
